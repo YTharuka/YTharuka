@@ -1,6 +1,6 @@
 # Hi, I'm Yasith Tharuka 👋
 
-I am an undergraduate Software Engineering student passionate about blending **Artificial Intelligence** with real-world solutions. Currently, I’m diving deep into AI, Quantum Machine Learning, Cybersecurity, and Project Management while developing practical skills and knowledge.
+I am an undergraduate Software Engineering student passionate about blending **Artificial Intelligence** with real-world solutions. Currently, I’m diving deep into AI, QML, Cybersecurity, and Project Management while developing practical skills and knowledge.
 
 ---
 
